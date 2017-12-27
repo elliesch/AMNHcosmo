@@ -1,10 +1,15 @@
 # AMNHcosmo
 A troubleshooting guide for the Cosmo cluster at AMNH
 
-## Setting up Guide
+[Setting Up Guide](#Setting-Up-Guide)
+[Python Troubleshooting](#Python-Troubleshooting)
+[C Troubleshooting](#C-Troubleshooting)
+[FORTRAN Troubleshooting](#FORTRAN-Troubleshooting)
 
-## Python Troubleshooting
+### Setting up Guide
 
-## C Troubleshooting
+### Python Troubleshooting
 
-## FORTRAN Troubleshooting
+### C Troubleshooting
+
+### FORTRAN Troubleshooting
